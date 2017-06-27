@@ -72,7 +72,7 @@ Zu Beginn sollte die Mitte der Trennwand ausgemessen werden auf der später der 
 1. Befestigen der Plexiglasstreifen auf einem dritten Plexiglasstreifen mit Heißkleber zum erzeugen einer Röhre. (Siehe Abbildung oben.)
 1. Zuschneiden eines langen Streifens Backpapier, welcher die komplette Röhre füllen kann.
 1. Befestigen des Backpapiers mit Klebefilm.
-1. Wiederholen für die zweite Plexiglas Verzierung der rückseite.
+1. Wiederholen für die zweite Plexiglas Verzierung der Rückseite.
 
 #### Befestigung der Plexiglas Verzierung
 
