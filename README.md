@@ -129,7 +129,18 @@ Die Geräusch-Sensoren werden in den horizontalen Zwischenräumen der Akustikpla
 	1. Verstecken der Leitungen hinter dem LED-Streifen.
 
 ### Schaltungen
-...
+1. Ankleben der Steckplatine mittig am unteren Ende der Pinnwand.
+1. Anpinnen der Arduinos rechts über der Platine, sodass die Kabelanschlüsse nach rechts aussen gerichtet sind.
+1. Verkabelung der Schaltung
+	1. Plus- und Minuspole der LED-Streifen werden an den Plus- und Minuspol des oberen Arduinos angeschlossen.
+	1. Die CI Anschlüsse der beiden LED-Streifen werden an den PIN 5 des oberen Arduinos angeschlossen.
+	1. Der DI Anschluss des LED-Streifens der Vorderseite wird an den PIN 3 des oberen Arduinos angeschlossen.
+	1. Der DI Anschluss des LED-Streifens der Rückseite wird an den PIN 4 des oberen Arduinos angeschlossen.
+	1. Plus- und Minuspole der Laustärkesensoren werden an den Plus- und Minuspol des unteren Arduinos angeschlossen.
+	1. Der Output des Lautstärkesensors der Vorderseite wird an den PIN A0 des unteren Arduinos angeschlossen.
+	1. Der Output des Lautstärkesensors der Rückseite wird an den PIN A1 des unteren Arduinos angeschlossen.
+	1. Verbinden der Minuspole der beiden Arduinos.
+	1. Ein weiteres Kabel wird für die Kommunikationsverbindung der Arduinos benötigt. Dieses sollte aber erst im nächsten Kapitel, nachdem die Programme aufgespielt wurden, angeschlossen werden.
 
 #### Schaltplan
 ...
