@@ -13,7 +13,7 @@ Wie können wir den Studenten im studentischen Arbeitsraum helfen, eine ruhigere
 
 ### Beschreibung des fertigen Produkts
 
-Bei der Akustik-Wand handelt es sich um eine Trennwand, welche in Arbeitsräumen mit vielen Menschen aufgestellt werden kann, um eine angenehmere Akustik zu schaffen. Gleichzeitig wird Rückmeldung bei zu starker Lärmentwicklung geboten und somit die Lautstärkeentwicklung reduziert.
+Bei der Akustik-Wand handelt es sich um eine Trennwand, welche in Arbeitsräumen mit vielen Menschen aufgestellt werden kann, um eine angenehmere Akustik zu schaffen. Gleichzeitig wird Rückmeldung bei zu starker Lärmentwicklung geboten und somit indirekt die Lautstärkeentwicklung reduziert.
 
 ## Materialien und Werkzeug
 
@@ -49,7 +49,7 @@ Löten, die Benutzung einer Heißklebepistole sowie der grundlegende Umgang mit 
 
 ### Vorbereitung
 
-Zu Beginn sollte die Mitte der Trennwand ausgemessen werden auf der später der LED-Streifen befestigt wird. Zudem kann die Anordnung der Akustikplatten geplant werden, hierbei ist zu beachten einen Freiraum für den Geräusch-Sensor auf beiden Seiten zu lassen.
+Zu Beginn sollte die Mitte der Trennwand ausgemessen werden auf der später der LED-Streifen befestigt wird. Zudem kann die Anordnung der Akustikplatten geplant werden. Hierbei ist zu beachten, das auf beiden Seiten ein Freiraum für den Geräusch-Sensor gelassen werden muss.
 
 <img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/layout-0.jpg" height="256">
 
@@ -71,9 +71,9 @@ Zu Beginn sollte die Mitte der Trennwand ausgemessen werden auf der später der 
 
 <img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/led.jpg" height="256">
 
-1. Abmessen der länge jedes LED-Streifens. (Hinweis: Streifen auf der Rückseite muss länger sein, da dieser unter der Pinnwand hindurch bis zum Arduino geführt wird.)
+1. Abmessen der Länge jedes LED-Streifens. (Hinweis: Streifen auf der Rückseite muss länger sein, da dieser unter der Pinnwand hindurch bis in den Schaltkasten geführt wird.)
 1. Zuschneiden des LED-Streifens in die passende Länge.
-1. Löten von Leitungen an die Input-Seite der LED-Streifen. (Hinweis: "CI" Pin befindet sich auf der Input-Seite, "CO" Pin auf der Output-Seite der LED-Streifen.)
+1. Löten der Kabel an die Input-Seite der LED-Streifen. (Hinweis: "CI" Pin befindet sich auf der Input-Seite, "CO" Pin auf der Output-Seite der LED-Streifen.)
 
 #### Befestigung der LED-Streifen
 
@@ -81,7 +81,7 @@ Zu Beginn sollte die Mitte der Trennwand ausgemessen werden auf der später der 
 
 <img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/led-attachment-1.jpg" height="256">
 
-1. Anpinnen des Streifens am oberen Ende der Pinnwand mit der ("CO") Output-Seite. (Hinweis: Zum anpinnen können die nicht verwendeten Lötstellen des Streifens verwendet werden um Pinnadeln durch zu stecken.)
+1. Anpinnen des Streifens am oberen Ende der Pinnwand mit der ("CO") Output-Seite oben. (Hinweis: Zum anpinnen können die nicht verwendeten Lötstellen des Streifens verwendet werden um Pinnadeln durch zu stecken.)
 1. Einklemmen der LED-Streifen mit zwei Pinnadeln am unteren Ende.
 
 ### Plexiglas Verzierung
@@ -91,7 +91,7 @@ Zu Beginn sollte die Mitte der Trennwand ausgemessen werden auf der später der 
 1. Befestigen der Plexiglasstreifen auf einem dritten Plexiglasstreifen mit Heißkleber zum erzeugen einer Röhre. (Siehe Abbildung oben.)
 1. Zuschneiden eines langen Streifens Backpapier, welcher die komplette Röhre füllen kann.
 1. Befestigen des Backpapiers mit Klebefilm.
-1. Wiederholen für die zweite Plexiglas Verzierung der Rückseite.
+1. Wiederholen der Schritte für die zweite Plexiglas Verzierung der Rückseite.
 
 #### Befestigung der Plexiglas Verzierung
 
@@ -100,18 +100,18 @@ Zu Beginn sollte die Mitte der Trennwand ausgemessen werden auf der später der 
 <img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/decoration-1.jpg" height="512">
 
 1. Beide Seiten der Plexiglas Verzierung mit Klebeband versehen.
-1. Das überstehende Klebeband nach oben klappen und mit einem zusätzlichen, kleinen, Streifen Klebeband in dieser Position fixieren. (Erleichtert das anbringen an der Pinnwand)
+1. Das überstehende Klebeband mit der nicht klebenden Seite an die Plexiglas Verzierung klappen und mit einem zusätzlichen kleinen Streifen Klebeband in dieser Position fixieren. (Erleichtert das anbringen an der Pinnwand)
 1. Plexiglas Verzierung an Pinnwand anbringen.
 	1. Anheben der Plexiglas Verzierung an die gewünschte Position.
 	1. Zusaetzliche Klebebandstreifen entfernen und Plexiglas Verzierung mit dem Klebeband an der Pinnwand fixieren.
 1. Klebeband an der Pinnwand mit Pins befestigen, für zusätzliche Stabilität.
-1. Wiederholen für die zweite Plexiglas Verzierung der Rückseite.
+1. Wiederholen für die zweite Plexiglas Verzierung an der Rückseite.
 
 ### Akustikplatten
 
 <img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/acoustic_foam.jpg" height="256">
 
-1. Anpinnen der Platten an der Pinnwand, bevorzugt Pinnnadeln mit schwarzem Kopf. (Anordnung aus Planung entnehmen.)
+1. Anpinnen der Platten an der Pinnwand, bevorzugt mit Pinnnadeln mit einem schwarzem Kopf. (Anordnung aus Planung entnehmen.)
 
 ### Geräusch-Sensoren
 Die Geräusch-Sensoren werden in den horizontalen Zwischenräumen der Akustikplatten platziert.
