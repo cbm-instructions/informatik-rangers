@@ -54,17 +54,23 @@ Zu Beginn sollte die Mitte der Trennwand ausgemessen werden auf der später der 
 ...
 
 #### Befestigung des LED-Streifens
-
-<img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/decoration-0.jpg" height="512">
-
-<img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/decoration-1.jpg" height="256">
 ...
 
 ### Plexiglas Verzierung
 ...
 
 #### Befestigung der Plexiglas Verzierung
-...
+
+<img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/decoration-0.jpg" height="512">
+
+<img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/decoration-1.jpg" height="512">
+
+1. Beide Seiten der Plexiglas Verzierung mit Klebeband versehen.
+1. Das überstehende Klebeband nach oben klappen und mit einem zusätzlichen, kleinen, Streifen Klebeband in dieser Position fixieren. (Erleichtert das anbringen an der Pinnwand)
+1. Plexiglas Verzierung an Pinnwand anbringen.
+	1. Anheben der Plexiglas Verzierung an die gewünschte Position.
+	1. Zusaetzliche Klebebandstreifen entfernen und Plexiglas Verzierung mit dem Klebeband an der Pinnwand fixieren.
+1. Klebeband an der Pinnwand mit Pins befestigen, für zusätzliche Stabilität.
 
 ### Akustikplatten
 
