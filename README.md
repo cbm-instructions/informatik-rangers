@@ -27,3 +27,7 @@
 - Ca. 50x [Pinnnadeln](https://www.amazon.de/Outus-Karte-Nagel-Pinnadeln-Plastik/dp/B01LX88MBN/ref=sr_1_1)
 
 ## Werkzeug
+- 1x [Lötkolben](https://www.amazon.de/Einstellbare-Temperatur-Unterschiedliche-L%C3%B6tspitzen-Verschiedentlich/dp/B01LXH7BLN/ref=sr_1_3)
+- 1x [Heißklebepistole](https://www.amazon.de/Blusmart-Hei%C3%9Fklebepistole-Klebesticks-Klebepistole-Handwerkprojekte/dp/B01K1Z0OAO/ref=sr_1_4)
+- 1x [Schere](https://www.amazon.de/AmazonBasics-Schere-weichem-Griff-Titan-Scherenbl%C3%A4tter/dp/B01BRGUC9Y/ref=sr_1_4)
+- 1x [Kabelzange](https://www.amazon.de/Br%C3%BCder-Mannesmann-Werkzeug-M10989-Abisolierzange/dp/B002QZT7CO/ref=sr_1_7)
