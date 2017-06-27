@@ -9,7 +9,7 @@
 Wie könnten Menschen in der „Smart HS Mannheim“ durch deren intelligente Geräte und Objekte dabei unterstützt werden, angenehmer und spielerischer zu arbeiten?
 
 ### Point of View
-...
+Wie können wir den Studenten im studentischen Arbeitsraum helfen, eine ruhigere Arbeitsumgebung zu schaffen, damit sie konzentriert arbeiten können?
 
 ### Beschreibung des fertigen Produkts
 
