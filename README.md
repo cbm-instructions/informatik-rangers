@@ -54,7 +54,16 @@ Zu Beginn sollte die Mitte der Trennwand ausgemessen werden auf der später der 
 <img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/layout-1.jpg" height="512">
 
 ## Step-by-Step Guide
-...
+
+### Übersicht
+
+1. LED-Streifen
+1. Plexiglas Verzierung
+1. Akustikplatten
+1. Geräusch-Sensoren
+1. Schaltungen
+1. Code
+1. Verkleidung
 
 ### LED-Streifen
 
