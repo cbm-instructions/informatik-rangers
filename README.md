@@ -4,12 +4,14 @@
 ...
 
 ## Challenge
-...
+Wie könnten Menschen in der „Smart HS Mannheim“ durch deren intelligente Geräte und Objekte dabei unterstützt werden, angenehmer und spielerischer zu arbeiten?
 
 ## Point of View
 ...
 
-## Material
+## Materialien und Werkzeug
+
+### Material
 - 1x Pinnwand
 - 12x [Akustikschaumstoff Platten](https://www.amazon.de/Noppenschaumstoff-Akustik-Schaumstoff-Akustikschaumstoff-D%C3%A4mmung/dp/B004JVY8A4/ref=sr_1_2) (50cm x 50cm)
 - 2x [Arduino Uno] (http://www.exp-tech.de/arduino-uno-smd-r3)
@@ -26,8 +28,49 @@
 - 2x [Netzteil](https://www.amazon.de/Goobay-NTS-1000-MW-Schaltnetzteil/dp/B002E4WNWI/ref=sr_1_19)
 - Ca. 50x [Pinnnadeln](https://www.amazon.de/Outus-Karte-Nagel-Pinnadeln-Plastik/dp/B01LX88MBN/ref=sr_1_1)
 
-## Werkzeug
+### Werkzeug
 - 1x [Lötkolben](https://www.amazon.de/Einstellbare-Temperatur-Unterschiedliche-L%C3%B6tspitzen-Verschiedentlich/dp/B01LXH7BLN/ref=sr_1_3)
 - 1x [Heißklebepistole](https://www.amazon.de/Blusmart-Hei%C3%9Fklebepistole-Klebesticks-Klebepistole-Handwerkprojekte/dp/B01K1Z0OAO/ref=sr_1_4)
 - 1x [Schere](https://www.amazon.de/AmazonBasics-Schere-weichem-Griff-Titan-Scherenbl%C3%A4tter/dp/B01BRGUC9Y/ref=sr_1_4)
 - 1x [Kabelzange](https://www.amazon.de/Br%C3%BCder-Mannesmann-Werkzeug-M10989-Abisolierzange/dp/B002QZT7CO/ref=sr_1_7)
+
+## Vorkenntnisse und Vorbereitung
+
+### Benötigte Vorkenntnisse
+Löten sowie der grundlegende Umgang mit einem Arduino werden für dieses Projekt vorausgesetzt.
+
+### Vorbereitung
+Zu Beginn sollte die Mitte der Trennwand ausgemessen werden auf der später der LED-Streifen befestigt wird. Zudem kann die Anordnung der Akustikplatten geplant werden, hierbei ist zu beachten einen Freiraum für den Geräusch-Sensor auf beiden Seiten zu lassen.
+
+## Step-by-Step Guide
+...
+
+### LED-Streifen
+...
+
+#### Befestigung des LED-Streifens
+...
+
+### Plexiglas Verzierung
+...
+
+#### Befestigung der Plexiglas Verzierung
+...
+
+### Akustikplatten
+...
+
+### Geräusch-Sensoren
+...
+
+### Schaltungen
+...
+
+#### Schaltplan
+...
+
+### Code
+...
+
+#### Test, Kalibrierung und Fehlerbehandlung
+...
