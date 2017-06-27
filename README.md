@@ -23,7 +23,7 @@ Wie könnten Menschen in der „Smart HS Mannheim“ durch deren intelligente Ge
 - 1x [10er Set Schaltlitzen](https://www.amazon.de/Original-Donau-Kupfer-Litzen-Germany/dp/B01BI1G88C/ref=sr_1_1)
 - 1x [Rolle Klebeband](https://www.amazon.de/Klebeband-Gewebeband-Panzerband-Panzertape-schwarz/dp/B00BZ5EXO8/ref=sr_1_15)
 - 1x [Rolle Backpapier Weiß](https://www.amazon.de/Ibili-200730-Backpapier-10-m-x-30-cm/dp/B00717TA56/ref=sr_1_1)
-- 1x [Rolle Tesafilm](https://www.amazon.de/tesa-Klebebandabroller-Kompakter-Tischabroller-Anti-Rutsch-Technologie/dp/B00EEAIPVS/ref=sr_1_4)
+- 1x [Rolle Klebefilm](https://www.amazon.de/tesa-Klebebandabroller-Kompakter-Tischabroller-Anti-Rutsch-Technologie/dp/B00EEAIPVS/ref=sr_1_4)
 - 2x [USB 2.0 Kabel A-Stecker auf B-Stecker](https://www.amazon.de/AmazonBasics-USB-2-0-Druckerkabel-Stecker-B-Stecker/dp/B00NH13DV2/ref=sr_1_1)
 - 2x [Netzteil](https://www.amazon.de/Goobay-NTS-1000-MW-Schaltnetzteil/dp/B002E4WNWI/ref=sr_1_19)
 - Ca. 50x [Pinnnadeln](https://www.amazon.de/Outus-Karte-Nagel-Pinnadeln-Plastik/dp/B01LX88MBN/ref=sr_1_1)
@@ -66,7 +66,13 @@ Zu Beginn sollte die Mitte der Trennwand ausgemessen werden auf der später der 
 1. Einklemmen der LED-Streifen mit zwei Pinnadeln am unteren Ende.
 
 ### Plexiglas Verzierung
-...
+
+<img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/decoration-draft.jpg" height="256">
+
+1. Befestigen der Plexiglasstreifen auf einem dritten Plexiglasstreifen mit Heißkleber zum erzeugen einer Röhre. (Siehe Abbildung oben.)
+1. Zuschneiden eines langen Streifens Backpapier, welcher die komplette Röhre füllen kann.
+1. Befestigen des Backpapiers mit Klebefilm.
+1. Wiederholen für die zweite Plexiglas Verzierung der rückseite.
 
 #### Befestigung der Plexiglas Verzierung
 
