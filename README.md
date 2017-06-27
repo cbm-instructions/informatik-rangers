@@ -165,3 +165,7 @@ Diese Werte entsprechen Richtwerten und müssen möglicherweise weiter angepasst
 1. Ausschneiden eines Freiraums an den Seiten aller ausgehenden Leitungen. (Arduino, Netzteil und LED-Streifen.)
 1. Dekorieren, einfaerben, bemalen der zur Verkleidung verwendeten Pappschachtel.
 1. Anbringen der Verkleidung mithilfe von Pinnadeln.
+
+## Ideen zur Weiterentwicklung
+
+* Wenn die Lautstaerkeanzeige auf dem maximalwert ist könnte ein zusätzlicher Effekt auftreten, beispielsweise könnte die LED-Leiste anfangen zu blinken um noch mehr Aufmerksamkeit auf sich zu ziehen.
