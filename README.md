@@ -32,7 +32,7 @@ Bei der Akustik-Wand handelt es sich um eine Trennwand, welche in Arbeitsräumen
 - 1x [Rolle Klebefilm](https://www.amazon.de/tesa-Klebebandabroller-Kompakter-Tischabroller-Anti-Rutsch-Technologie/dp/B00EEAIPVS/ref=sr_1_4)
 - 2x [USB 2.0 Kabel A-Stecker auf B-Stecker](https://www.amazon.de/AmazonBasics-USB-2-0-Druckerkabel-Stecker-B-Stecker/dp/B00NH13DV2/ref=sr_1_1)
 - 2x [Netzteil](https://www.amazon.de/Goobay-NTS-1000-MW-Schaltnetzteil/dp/B002E4WNWI/ref=sr_1_19)
-- Ca. 50x [Pinnnadeln](https://www.amazon.de/Outus-Karte-Nagel-Pinnadeln-Plastik/dp/B01LX88MBN/ref=sr_1_1)
+- Ca. 90x [Pinnnadeln](https://www.amazon.de/Outus-Karte-Nagel-Pinnadeln-Plastik/dp/B01LX88MBN/ref=sr_1_1)
 
 ### Werkzeug
 - 1x [Lötkolben](https://www.amazon.de/Einstellbare-Temperatur-Unterschiedliche-L%C3%B6tspitzen-Verschiedentlich/dp/B01LXH7BLN/ref=sr_1_3)
@@ -44,7 +44,7 @@ Bei der Akustik-Wand handelt es sich um eine Trennwand, welche in Arbeitsräumen
 
 ### Benötigte Vorkenntnisse
 
-Löten sowie der grundlegende Umgang mit einem Arduino werden in dieser Anleitung vorausgesetzt.
+Löten, die Benutzung einer Heißklebepistole sowie der grundlegende Umgang mit einem Arduino werden in dieser Anleitung vorausgesetzt.
 
 ### Vorbereitung
 
