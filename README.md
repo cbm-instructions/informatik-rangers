@@ -14,7 +14,7 @@ Wie könnten Menschen in der „Smart HS Mannheim“ durch deren intelligente Ge
 ### Material
 - 1x Pinnwand
 - 12x [Akustikschaumstoff Platten](https://www.amazon.de/Noppenschaumstoff-Akustik-Schaumstoff-Akustikschaumstoff-D%C3%A4mmung/dp/B004JVY8A4/ref=sr_1_2) (50cm x 50cm)
-- 2x [Arduino Uno] (http://www.exp-tech.de/arduino-uno-smd-r3)
+- 2x [Arduino Uno](http://www.exp-tech.de/arduino-uno-smd-r3)
 - 2x [Electret Microphone Amplifier](http://www.exp-tech.de/adafruit-electret-microphone-amplifier-max4466-with-adjustable-gain)
 - 1x [LED-Streifen](http://www.exp-tech.de/adafruit-neopixel-digital-rgb-led-weatherproof-strip-60-led-4m-white)
 - 1x Pappschachtel (ca. 20 cm x 20 cm)
