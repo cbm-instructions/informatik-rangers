@@ -43,7 +43,8 @@ Bei der Akustik-Wand handelt es sich um eine Trennwand, welche in Arbeitsräumen
 ## Vorkenntnisse und Vorbereitung
 
 ### Benötigte Vorkenntnisse
-Löten sowie der grundlegende Umgang mit einem Arduino werden für dieses Projekt vorausgesetzt.
+
+Löten sowie der grundlegende Umgang mit einem Arduino werden in dieser Anleitung vorausgesetzt.
 
 ### Vorbereitung
 
@@ -142,6 +143,6 @@ Die Geräusch-Sensoren werden in den horizontalen Zwischenräumen der Akustikpla
 
 <img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/panel.jpg" height="256">
 
-1. Ausschneiden eines Freiraums an der Seite aller ausgehenden Leitungen. (Arduino und Netzteil.)
+1. Ausschneiden eines Freiraums an den Seiten aller ausgehenden Leitungen. (Arduino, Netzteil und LED-Streifen.)
 1. Dekorieren, einfaerben, bemalen der zur Verkleidung verwendeten Pappschachtel.
 1. Anbringen der Verkleidung mithilfe von Pinnadeln.
