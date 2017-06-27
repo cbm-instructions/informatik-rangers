@@ -57,7 +57,7 @@ Zu Beginn sollte die Mitte der Trennwand ausgemessen werden auf der später der 
 
 <img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/led-attachment.jpg" height="256">
 
-1. Anpinnen des Streifens am oberen Ende der Pinnwand mit der (“CO”) Output-Seite. (Hinweis: Zum anpinnen können die nicht verwendeten Lötstellenn des Streifens verwendet werden um Pinnadeln durch zu stecken.)
+1. Anpinnen des Streifens am oberen Ende der Pinnwand mit der (“CO”) Output-Seite. (Hinweis: Zum anpinnen können die nicht verwendeten Lötstellen des Streifens verwendet werden um Pinnadeln durch zu stecken.)
 1. Einklemmen der LED-Streifen mit zwei Pinnadeln am unteren Ende.
 
 ### Plexiglas Verzierung
