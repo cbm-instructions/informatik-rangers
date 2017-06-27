@@ -1,15 +1,19 @@
-# Informatik-Rangers
+# Informatik-Rangers | Akustik-Wand
 
 <img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/overview.jpg" height="1024">
 
 ## Einleitung
 ...
 
-## Challenge
+### Challenge
 Wie könnten Menschen in der „Smart HS Mannheim“ durch deren intelligente Geräte und Objekte dabei unterstützt werden, angenehmer und spielerischer zu arbeiten?
 
-## Point of View
+### Point of View
 ...
+
+### Beschreibung des fertigen Produkts
+
+Bei der Akustik-Wand handelt es sich um eine Trennwand, welche in Arbeitsräumen mit vielen Menschen aufgestellt werden kann, um eine angenehmere Akustik zu schaffen. Gleichzeitig wird Rückmeldung bei zu starker Lärmentwicklung geboten und somit die Lautstärkeentwicklung reduziert.
 
 ## Materialien und Werkzeug
 
