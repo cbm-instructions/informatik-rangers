@@ -55,7 +55,7 @@ Zu Beginn sollte die Mitte der Trennwand ausgemessen werden auf der später der 
 
 #### Befestigung des LED-Streifens
 
-<img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/decoration-0.jpg" height="256">
+<img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/decoration-0.jpg" height="512">
 
 <img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/decoration-1.jpg" height="256">
 ...
