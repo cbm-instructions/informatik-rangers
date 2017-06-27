@@ -1,6 +1,6 @@
 # Informatik-Rangers | Akustik-Wand
 
-<img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/overview.jpg" height="1024">
+<img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/intro.jpg" height="1024">
 
 ## Einleitung
 ...
