@@ -167,8 +167,8 @@ Die Messwerte der Sensoren sind vom Stromkreis selbst abhängig, weshalb jeder A
 1. Öffnen des seriellen Plotters an einem der beiden Arduinos.
 1. Warten auf einige ruhige / leise Messintervalle und notieren der in diesen Messintervallen gemessenen Messwerte. Der erste Wert entspricht hierbei dem Messwert des Sensors der Vorderseiten (Messwert A) und der zweite Wert entspricht dem Messwert des Sensors der Rückseite (Messwert B).
 1. Initialisieren der Konstanten des "Receiver" Programms wie folgt:
-	1. lowerLimitFront = <Messwert A> + 1
-	1. lowerLimitBack = <Messwert B> + 1
+	1. lowerLimitFront = Messwert A + 1
+	1. lowerLimitBack = Messwert B + 1
 1. Wiederholen Sie nun die Schritte aus dem Kapitel Code.
 
 Hinweis: Diese Werte entsprechen Richtwerten und müssen möglicherweise weiter angepasst werden. Füllt sich die LED-Anzeige nicht, obwohl es zu laut ist, so sollte man diese Randwerte des entsprechenden Sensors etwas herabsetzen. Füllt sich die LED-Anzeige, obwohl es leise genug ist, so sollten die Randwerte des entsprechenden Sensors etwas erhöht werden.
