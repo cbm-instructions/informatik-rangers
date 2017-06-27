@@ -40,6 +40,11 @@ Wie könnten Menschen in der „Smart HS Mannheim“ durch deren intelligente Ge
 Löten sowie der grundlegende Umgang mit einem Arduino werden für dieses Projekt vorausgesetzt.
 
 ### Vorbereitung
+
+<img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/layout-0.jpg" height="256">
+
+<img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/layout-1.jpg" height="256">
+
 Zu Beginn sollte die Mitte der Trennwand ausgemessen werden auf der später der LED-Streifen befestigt wird. Zudem kann die Anordnung der Akustikplatten geplant werden, hierbei ist zu beachten einen Freiraum für den Geräusch-Sensor auf beiden Seiten zu lassen.
 
 ## Step-by-Step Guide
