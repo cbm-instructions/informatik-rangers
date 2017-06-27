@@ -62,7 +62,9 @@ Zu Beginn sollte die Mitte der Trennwand ausgemessen werden auf der später der 
 
 ### Geräusch-Sensoren
 <img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/sound-sensor.jpg" height="256">
+
 Die Geräusch-Sensoren werden in den horizontalen Zwischenräumen der Akustikplatten platziert.
+
 1. Länge der benoetigten Leitungen messen. (etwas mehr schadet hier nicht)
 1. Anbringen der Leitungen an den Sensoren.
 	1. Zuschneiden der Leitungen auf gewünschte länge.
