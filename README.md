@@ -26,6 +26,7 @@ Bei der Akustik-Wand handelt es sich um eine Trennwand, welche in Arbeitsräumen
 - 1x Pappschachtel (ca. 20 cm x 20 cm)
 - 6x Plexiglasstreifen normal (150 cm x 3 cm)
 - 1x [Steckplatine](https://www.amazon.de/Neuftech-Breadboard-Steckbrett-Experimentierboard-Steckplatine/dp/B00PIMRREC/ref=sr_1_4)
+- 22x [Drahtbrücken Kabel](https://www.amazon.de/wiederverwendbare-Steckbrett-Drahtbr%C3%BCcke-Schaltung-Schaffen/dp/B008U4ZOLI/ref=sr_1_40?s=ce-de&ie=UTF8&qid=1498597569&sr=1-40&keywords=breadboard)
 - 1x [10er Set Schaltlitzen](https://www.amazon.de/Original-Donau-Kupfer-Litzen-Germany/dp/B01BI1G88C/ref=sr_1_1)
 - 1x [Rolle Klebeband](https://www.amazon.de/Klebeband-Gewebeband-Panzerband-Panzertape-schwarz/dp/B00BZ5EXO8/ref=sr_1_15)
 - 1x [Rolle Backpapier Weiß](https://www.amazon.de/Ibili-200730-Backpapier-10-m-x-30-cm/dp/B00717TA56/ref=sr_1_1)
