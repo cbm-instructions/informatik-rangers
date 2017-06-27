@@ -134,10 +134,29 @@ Die Geräusch-Sensoren werden in den horizontalen Zwischenräumen der Akustikpla
 ...
 
 ### Code
-...
+
+Nachdem die Komplette Schaltung und alle elektronischen Komponenten an der Wand befestigt sind, wird es Zeit die Programme aufzuspielen.
+
+1. Verbinden Sie die Arduinos mit einem Rechner.
+1. Starten Sie die Arduino IDE, mit dem Programm für den Sender.
+1. Spielen Sie das Programm auf den unteren Arduino auf.
+1. Öffnen Sie das Programm des Empfängers.
+1. Trennen Sie die Kommunikationsverbindung der Arduinos. (Pins Tx - Rx.)
+1. Spielen Sie das Programm für den Empfänger auf den Oberen Arduino auf.
+1. Verbinden Sie die Kommunikationsverbindung der Arduinos erneut. (Pins Tx - Rx.)
+
+Nun sind die Programme und somit auch die ganze Schaltung voll funktionsfähig. Jedoch müssen unter Umständen noch einige Konstanten im Programm an die Schaltung bzw. die Sensoren angepasst werden, dazu mehr im nächsten Kapitel.
 
 #### Test, Kalibrierung und Fehlerbehandlung
-...
+
+1. Öffnen Sie den seriellen Plotter für den Sender Arduino.
+1. Warten Sie auf einige ruhige / leise Messintervalle und notieren Sie sich, um welche Werte die Messwerte der jeweiligen Sensoren schwanken. Der erste Wert entspricht hierbei dem Messwert des Sensors der Vorderseiten (Messwert A) und der zweite Wert entspricht dem Messwert des Sensors der Rückseite (Messwert B).
+1. Initialisieren Sie die nun die Konstanten des Empfängerprogramms wie folgt.
+	1. lowerLimitFront = Messwert A + 1
+	1. lowerLimitBack = Messwert B + 1
+1. Wiederholen Sie nun die Instruktionen aus dem Kapitel Code.
+
+Diese Werte entsprechen Richtwerten und müssen möglicherweise weiter angepasst werden. Füllt sich die LED-Anzeige nicht, obwohl es zu laut ist, so sollte man diese Randwerte des entsprechenden Sensors etwas herabsetzen. Füllt sich die LED-Anzeige, obwohl es leise genug ist, so sollten die Randwerte des entsprechenden Sensors etwas erhöht werden.
 
 ### Verkleidung
 
