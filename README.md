@@ -58,7 +58,10 @@ Zu Beginn sollte die Mitte der Trennwand ausgemessen werden auf der später der 
 ...
 
 ### Akustikplatten
-...
+
+<img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/acoustic_foam.jpg" height="256">
+
+1. Anpinnen der Platten an der Pinnwand, bevorzugt Pinnnadeln mit schwarzem Kopf. (Anordnung aus Planung entnehmen)
 
 ### Geräusch-Sensoren
 Die Geräusch-Sensoren werden in den horizontalen Zwischenräumen der Akustikplatten platziert.
