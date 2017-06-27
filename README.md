@@ -60,7 +60,7 @@ Zu Beginn sollte die Mitte der Trennwand ausgemessen werden auf der später der 
 1. Zuschneiden des LED-Streifens in die passende Länge.
 1. Löten von Leitungen an die Input-Seite der LED-Streifen. (Hinweis: "CI" Pin befindet sich auf der Input-Seite, "CO" Pin auf der Output-Seite der LED-Streifen.)
 
-#### Befestigung des LED-Streifens
+#### Befestigung der LED-Streifen
 
 <img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/led-attachment.jpg" height="256">
 
@@ -88,6 +88,7 @@ Zu Beginn sollte die Mitte der Trennwand ausgemessen werden auf der später der 
 	1. Anheben der Plexiglas Verzierung an die gewünschte Position.
 	1. Zusaetzliche Klebebandstreifen entfernen und Plexiglas Verzierung mit dem Klebeband an der Pinnwand fixieren.
 1. Klebeband an der Pinnwand mit Pins befestigen, für zusätzliche Stabilität.
+1. Wiederholen für die zweite Plexiglas Verzierung der Rückseite.
 
 ### Akustikplatten
 
@@ -123,4 +124,9 @@ Die Geräusch-Sensoren werden in den horizontalen Zwischenräumen der Akustikpla
 ...
 
 ### Verkleidung
-...
+
+<img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/panel.jpg" height="256">
+
+1. Ausschneiden eines Freiraums an der Seite aller ausgehenden Leitungen. (Arduino und Netzteil.)
+1. Dekorieren, einfaerben, bemalen der zur Verkleidung verwendeten Pappschachtel.
+1. Anbringen der Verkleidung mithilfe von Pinnadeln.
