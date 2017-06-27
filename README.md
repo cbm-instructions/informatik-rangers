@@ -54,7 +54,11 @@ Zu Beginn sollte die Mitte der Trennwand ausgemessen werden auf der später der 
 ...
 
 #### Befestigung des LED-Streifens
-...
+
+<img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/led-attachment.jpg" height="512">
+
+1. Anpinnen des Streifens am oberen Ende der Pinnwand mit der (“CO”) Output-Seite. (Hinweis: Zum anpinnen können die nicht verwendeten Lötstellenn des Streifens verwendet werden um Pinnadeln durch zu stecken.)
+1. Einklemmen der LED-Streifen mit zwei Pinnadeln am unteren Ende.
 
 ### Plexiglas Verzierung
 ...
@@ -76,14 +80,14 @@ Zu Beginn sollte die Mitte der Trennwand ausgemessen werden auf der später der 
 
 <img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/acoustic_foam.jpg" height="256">
 
-1. Anpinnen der Platten an der Pinnwand, bevorzugt Pinnnadeln mit schwarzem Kopf. (Anordnung aus Planung entnehmen)
+1. Anpinnen der Platten an der Pinnwand, bevorzugt Pinnnadeln mit schwarzem Kopf. (Anordnung aus Planung entnehmen.)
 
 ### Geräusch-Sensoren
 Die Geräusch-Sensoren werden in den horizontalen Zwischenräumen der Akustikplatten platziert.
 
 <img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/sound-sensor.jpg" height="256">
 
-1. Länge der benoetigten Leitungen messen. (etwas mehr schadet hier nicht)
+1. Länge der benoetigten Leitungen messen. (Etwas mehr schadet hier nicht.)
 1. Anbringen der Leitungen an den Sensoren.
 	1. Zuschneiden der Leitungen auf gewünschte länge.
 	1. Abisolieren der Leitungsenden.
@@ -103,4 +107,7 @@ Die Geräusch-Sensoren werden in den horizontalen Zwischenräumen der Akustikpla
 ...
 
 #### Test, Kalibrierung und Fehlerbehandlung
+...
+
+### Verkleidung
 ...
