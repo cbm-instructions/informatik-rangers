@@ -51,13 +51,18 @@ Zu Beginn sollte die Mitte der Trennwand ausgemessen werden auf der später der 
 ...
 
 ### LED-Streifen
-...
+
+<img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/led.jpg" height="256">
+
+1. Abmessen der länge jedes LED-Streifens. (Hinweis: Streifen auf der Rückseite muss länger sein, da dieser unter der Pinnwand hindurch bis zum Arduino geführt wird.)
+1. Zuschneiden des LED-Streifens in die passende Länge.
+1. Löten von Leitungen an die Input-Seite der LED-Streifen. (Hinweis: "CI" Pin befindet sich auf der Input-Seite, "CO" Pin auf der Output-Seite der LED-Streifen.)
 
 #### Befestigung des LED-Streifens
 
 <img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/led-attachment.jpg" height="256">
 
-1. Anpinnen des Streifens am oberen Ende der Pinnwand mit der (“CO”) Output-Seite. (Hinweis: Zum anpinnen können die nicht verwendeten Lötstellen des Streifens verwendet werden um Pinnadeln durch zu stecken.)
+1. Anpinnen des Streifens am oberen Ende der Pinnwand mit der ("CO") Output-Seite. (Hinweis: Zum anpinnen können die nicht verwendeten Lötstellen des Streifens verwendet werden um Pinnadeln durch zu stecken.)
 1. Einklemmen der LED-Streifen mit zwei Pinnadeln am unteren Ende.
 
 ### Plexiglas Verzierung
