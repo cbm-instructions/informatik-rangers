@@ -152,32 +152,32 @@ Die Geräusch-Sensoren werden in den horizontalen Zwischenräumen der Akustikpla
 
 Nachdem die Komplette Schaltung und alle elektronischen Komponenten an der Wand befestigt sind, wird es Zeit die Programme aufzuspielen.
 
-1. Verbinden Sie die Arduinos mit einem Rechner.
-1. Starten Sie die Arduino IDE, mit dem Programm für den Sender.
-1. Spielen Sie das Programm auf den unteren Arduino auf.
-1. Öffnen Sie das Programm des Empfängers.
-1. Trennen Sie die Kommunikationsverbindung der Arduinos. (Pins Tx - Rx.)
-1. Spielen Sie das Programm für den Empfänger auf den Oberen Arduino auf.
-1. Verbinden Sie die Kommunikationsverbindung der Arduinos erneut. (Pins Tx - Rx.)
+1. Verbinden der Arduinos mit einem Rechner.
+1. Starten der Arduino IDE und öffnen der Programme "Sender" und "Receiver".
+1. Falls die Kommunikationsverbindung der Arduinos besteht, muss diese getrennt werden. (Pins Tx - Rx)
+1. Aufspielen des "Sender" Programms auf den unteren Arduino. (Der der mit den Sensoren verbunden ist)
+1. Aufspielen des "Receiver" Programms auf den oberen Arduinos. (Der der mit den LED-Streifen verbunden ist)
+1. Verbinden der Kommunikationsverbindung der Arduinos. (Pins Tx - Rx.)
 
-Nun sind die Programme und somit auch die ganze Schaltung voll funktionsfähig. Jedoch müssen unter Umständen noch einige Konstanten im Programm an die Schaltung bzw. die Sensoren angepasst werden, dazu mehr im nächsten Kapitel.
+Nun sind die Programme und somit auch die ganze Schaltung voll funktionsfähig. Jedoch müssen unter Umständen noch einige Konstanten im Programm an die Schaltung bzw. an die Sensoren angepasst werden. Mehr hierzu im nächsten Kapitel.
 
 #### Test, Kalibrierung und Fehlerbehandlung
+Die Messwerte der Sensoren sind vom Stromkreis selbst abhängig, weshalb jeder Aufbau unterschiedliche Messwerte liefert. Deshalb müssen die Randwerte zwischen laut und leise mit jedem Aubau neu angepasst werden.
 
-1. Öffnen Sie den seriellen Plotter für den Sender Arduino.
-1. Warten Sie auf einige ruhige / leise Messintervalle und notieren Sie sich, um welche Werte die Messwerte der jeweiligen Sensoren schwanken. Der erste Wert entspricht hierbei dem Messwert des Sensors der Vorderseiten (Messwert A) und der zweite Wert entspricht dem Messwert des Sensors der Rückseite (Messwert B).
-1. Initialisieren Sie die nun die Konstanten des Empfängerprogramms wie folgt.
-	1. lowerLimitFront = Messwert A + 1
-	1. lowerLimitBack = Messwert B + 1
+1. Öffnen des seriellen Plotters an einem der beiden Arduinos.
+1. Warten auf einige ruhige / leise Messintervalle und notieren der in diesen Messintervallen gemessenen Messwerte. Der erste Wert entspricht hierbei dem Messwert des Sensors der Vorderseiten (Messwert A) und der zweite Wert entspricht dem Messwert des Sensors der Rückseite (Messwert B).
+1. Initialisieren der Konstanten des "Receiver" Programms wie folgt:
+	1. lowerLimitFront = <Messwert A> + 1
+	1. lowerLimitBack = <Messwert B> + 1
 1. Wiederholen Sie nun die Schritte aus dem Kapitel Code.
 
-Diese Werte entsprechen Richtwerten und müssen möglicherweise weiter angepasst werden. Füllt sich die LED-Anzeige nicht, obwohl es zu laut ist, so sollte man diese Randwerte des entsprechenden Sensors etwas herabsetzen. Füllt sich die LED-Anzeige, obwohl es leise genug ist, so sollten die Randwerte des entsprechenden Sensors etwas erhöht werden.
+Hinweis: Diese Werte entsprechen Richtwerten und müssen möglicherweise weiter angepasst werden. Füllt sich die LED-Anzeige nicht, obwohl es zu laut ist, so sollte man diese Randwerte des entsprechenden Sensors etwas herabsetzen. Füllt sich die LED-Anzeige, obwohl es leise genug ist, so sollten die Randwerte des entsprechenden Sensors etwas erhöht werden.
 
 ### Verkleidung
 
 <img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/panel.jpg" height="256">
 
-1. Ausschneiden eines Freiraums an den Seiten aller ausgehenden Leitungen. (Arduino, Netzteil und LED-Streifen.)
+1. Ausschneiden eines Freiraums an den Seiten, für die ausgehenden Leitungen. (Arduino, Netzteil und LED-Streifen.)
 1. Dekorieren, einfaerben, bemalen der zur Verkleidung verwendeten Pappschachtel.
 1. Anbringen der Verkleidung mithilfe von Pinnadeln.
 
