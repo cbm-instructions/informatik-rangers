@@ -154,7 +154,7 @@ Nun sind die Programme und somit auch die ganze Schaltung voll funktionsfähig. 
 1. Initialisieren Sie die nun die Konstanten des Empfängerprogramms wie folgt.
 	1. lowerLimitFront = Messwert A + 1
 	1. lowerLimitBack = Messwert B + 1
-1. Wiederholen Sie nun die Instruktionen aus dem Kapitel Code.
+1. Wiederholen Sie nun die Schritte aus dem Kapitel Code.
 
 Diese Werte entsprechen Richtwerten und müssen möglicherweise weiter angepasst werden. Füllt sich die LED-Anzeige nicht, obwohl es zu laut ist, so sollte man diese Randwerte des entsprechenden Sensors etwas herabsetzen. Füllt sich die LED-Anzeige, obwohl es leise genug ist, so sollten die Randwerte des entsprechenden Sensors etwas erhöht werden.
 
