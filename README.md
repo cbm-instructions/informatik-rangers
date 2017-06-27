@@ -64,13 +64,13 @@ Zu Beginn sollte die Mitte der Trennwand ausgemessen werden auf der später der 
 Die Geräusch-Sensoren werden in den horizontalen Zwischenräumen der Akustikplatten platziert.
 1. Laenge der benoetigten Leitungen messen. (etwas mehr schadet hier nicht)
 1. Anbringen der Leitungen an den Sensoren.
-	* Zuschneiden der Leitungen auf gewünschte länge.
-	* Abisolieren der Leitungsenden.
-	* Löten der Leitungen an die Geräusch-Sensoren.
+	1. Zuschneiden der Leitungen auf gewünschte länge.
+	1. Abisolieren der Leitungsenden.
+	1. Löten der Leitungen an die Geräusch-Sensoren.
 1. Anpinnen der Sensoren an der Pinnwand.
 1. Verstecken der Leitungen hinter den Akustikplatten.
-	* Führen der Leitungen in die Mitte der Pinwand.
-	* Verstecken der Leitungen hinter dem LED-Streifen.
+	1. Führen der Leitungen in die Mitte der Pinwand.
+	1. Verstecken der Leitungen hinter dem LED-Streifen.
 
 ### Schaltungen
 ...
