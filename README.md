@@ -78,7 +78,7 @@ Zu Beginn sollte die Mitte der Trennwand ausgemessen werden auf der später der 
 #### Befestigung der LED-Streifen
 
 <img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/led-attachment-0.jpg" height="256">
-
+ 
 <img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/led-attachment-1.jpg" height="256">
 
 1. Anpinnen des Streifens am oberen Ende der Pinnwand mit der ("CO") Output-Seite oben. (Hinweis: Zum anpinnen können die nicht verwendeten Lötstellen des Streifens verwendet werden um Pinnadeln durch zu stecken.)
@@ -88,7 +88,7 @@ Zu Beginn sollte die Mitte der Trennwand ausgemessen werden auf der später der 
 
 <img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/decoration-draft.jpg" height="256">
 
-1. Befestigen der Plexiglasstreifen auf einem dritten Plexiglasstreifen mit Heißkleber zum erzeugen einer Röhre. (Siehe Abbildung oben.)
+1. Befestige zwei Plexiglasstreifen auf einem dritten Plexiglasstreifen mit Heißkleber zum erzeugen einer U-Förmigen Röhre. (Siehe Abbildung oben.)
 1. Zuschneiden eines langen Streifens Backpapier, welcher die komplette Röhre füllen kann.
 1. Befestigen des Backpapiers mit Klebefilm.
 1. Wiederholen der Schritte für die zweite Plexiglas Verzierung der Rückseite.
