@@ -120,7 +120,7 @@ Die Geräusch-Sensoren werden in den horizontalen Zwischenräumen der Akustikpla
 
 1. Länge der benoetigten Leitungen messen. (Etwas mehr schadet hier nicht.)
 1. Anbringen der Leitungen an den Sensoren.
-	1. Zuschneiden der Leitungen auf gewünschte länge.
+	1. Zuschneiden der Leitungen auf gewünschte Länge.
 	1. Abisolieren der Leitungsenden.
 	1. Löten der Leitungen an die Geräusch-Sensoren.
 1. Anpinnen der Sensoren an der Pinnwand.
@@ -183,4 +183,4 @@ Hinweis: Diese Werte entsprechen Richtwerten und müssen möglicherweise weiter 
 
 ## Ideen zur Weiterentwicklung
 
-* Wenn die Lautstaerkeanzeige auf dem maximalwert ist könnte ein zusätzlicher Effekt auftreten, beispielsweise könnte die LED-Leiste anfangen zu blinken um noch mehr Aufmerksamkeit auf sich zu ziehen.
+* Wenn die Lautstaerkeanzeige auf dem Maximalwert ist könnte ein zusätzlicher Effekt auftreten, beispielsweise könnte die LED-Leiste anfangen zu blinken um noch mehr Aufmerksamkeit auf sich zu ziehen.
