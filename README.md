@@ -146,6 +146,7 @@ Die Geräusch-Sensoren werden in den horizontalen Zwischenräumen der Akustikpla
 	1. Der Output des Lautstärkesensors der Rückseite wird an den PIN A1 des unteren Arduinos angeschlossen.
 	1. Verbinden der Minuspole der beiden Arduinos.
 	1. Ein weiteres Kabel wird für die Kommunikationsverbindung der Arduinos benötigt. Dieses sollte aber erst im nächsten Kapitel, nachdem die Programme aufgespielt wurden, angeschlossen werden.
+1. Anschließen der Netzteile an die Arduinos
 
 #### Schaltplan
 <img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/schaltung.png" height="800">
@@ -159,21 +160,27 @@ Nachdem die Komplette Schaltung und alle elektronischen Komponenten an der Wand 
 1. Falls die Kommunikationsverbindung der Arduinos besteht, muss diese getrennt werden. (Pins Tx - Rx)
 1. Aufspielen des "Sender" Programms auf den unteren Arduino. (Der der mit den Sensoren verbunden ist)
 1. Aufspielen des "Receiver" Programms auf den oberen Arduinos. (Der der mit den LED-Streifen verbunden ist)
+1. Trennen der USB-Verbindung zum unteren Arduino (dem Sender).
 1. Verbinden der Kommunikationsverbindung der Arduinos. (Pins Tx - Rx.)
 
 Nun sind die Programme und somit auch die ganze Schaltung voll funktionsfähig. Jedoch müssen unter Umständen noch einige Konstanten im Programm an die Schaltung bzw. an die Sensoren angepasst werden. Mehr hierzu im nächsten Kapitel.
 
+Hinweis: Wird die USB-Verbindung zum Arduinos mit dem Sender Programm nicht getrennt, werden die Messwerte der Sensoren verfälscht.
+
 #### Test, Kalibrierung und Fehlerbehandlung
-Die Messwerte der Sensoren sind vom Stromkreis selbst abhängig, weshalb jeder Aufbau unterschiedliche Messwerte liefert. Deshalb müssen die Randwerte zwischen laut und leise mit jedem Aubau neu angepasst werden.
+Da jeder Raum seine eigene Akustik besitzt und die Wertebereiche je nach Anwendungsgebiet variieren können, müssen noch einige Konstanten an die Gegebenheiten des Einsatzgebietes angepasst werden. Hierfür sind folgende Schritte durchzuführen:
 
-1. Öffnen des seriellen Plotters an einem der beiden Arduinos.
-1. Warten auf einige ruhige / leise Messintervalle und notieren der in diesen Messintervallen gemessenen Messwerte. Der erste Wert entspricht hierbei dem Messwert des Sensors der Vorderseiten (Messwert A) und der zweite Wert entspricht dem Messwert des Sensors der Rückseite (Messwert B).
-1. Initialisieren der Konstanten des "Receiver" Programms wie folgt:
-	1. lowerLimitFront = Messwert A + 1
-	1. lowerLimitBack = Messwert B + 1
-1. Wiederholen Sie nun die Schritte aus dem Kapitel Code.
+1. Öffnen des seriellen Plotters des Empfänger Arduinos.
+1. Definieren der Schwellwerte
+	1. Ermitteln eines Grenzwertes für den jeweiligen Sensor, ab dem es zu laut ist und die Anzeige steigen soll.
+	1. Setzen der Konstanten "lowerLimitFront" und "lowerLimitBack" auf die ermittelten Grenzwerte.
+	1. Ermitteln eines Grenzwertes für den jeweiligen Sensor, ab dem es viel zu laut ist und die Anzeige noch schneller ansteigen soll.
+	1. Setzen der Konstanten "higherLimitFront" und "higherLimitBack" auf die ermittelten Grenzwerte.
+1. Trennen der Kommunikationsverbindung der Arduinos (Tx - Rx)
+1. Neu aufspielen des "Receiver" Programms.
+1. Verbinden der Kommunikationsverbindung der Arduinos (Tx - Rx)
 
-Hinweis: Diese Werte entsprechen Richtwerten und müssen möglicherweise weiter angepasst werden. Füllt sich die LED-Anzeige nicht, obwohl es zu laut ist, so sollte man diese Randwerte des entsprechenden Sensors etwas herabsetzen. Füllt sich die LED-Anzeige, obwohl es leise genug ist, so sollten die Randwerte des entsprechenden Sensors etwas erhöht werden.
+Hinweis: Füllt sich die LED-Anzeige nicht, obwohl es zu laut ist, so sollte man die Schwellwerte für den entsprechenden Sensor etwas herabsetzen. Füllt sich die LED-Anzeige, obwohl es leise genug ist, so sollten die Randwerte des entsprechenden Sensors etwas erhöht werden.
 
 ### Verkleidung
 
