@@ -55,8 +55,6 @@ void setup() {
 }
 
 
-
-
 // led strip start positions
 const int startPositionFront = 13;
 const int startPositionBack = 40;
@@ -69,35 +67,24 @@ const int minBrightness = 10;
 const int maxBrightness = 200;
 const double brightnessFactor = (maxBrightness - minBrightness) / displayLength;
 
-const double minValueFront = 38.0;//28
-const double maxValueFront = 66.0;
-const double minValueBack = 43.0;//32
-const double maxValueBack = 70.0;
-const double multiValueFront = (maxValueFront - minValueFront) / displayLength;
-const double multiValueBack = (maxValueBack - minValueBack) / displayLength;
-
 // threshold values:
-const double lowerLimitFront = 64.0;         // quiet -> noisy
-const double higherLimitFront = 65.0;        // noisy -> loud
-const double lowerLimitBack = 68.0;
-const double higherLimitBack = 69.0;
+const double lowerLimitFront = 15.0;         // quiet -> noisy
+const double higherLimitFront = 20.0;        // noisy -> loud
+const double lowerLimitBack = 18.5;
+const double higherLimitBack = 20.5;
 
-int stateSensor1 = 80;
-int stateSensor2 = 80;
+int stateSensor1 = 0;
+int stateSensor2 = 0;
 
 double rmsFrontSensor = 0, rmsBackSensor = 0;
-
-
 
 
 void loop() {
   if (Serial.available()) {
     readNewSoundValues();
-    Serial.print("Sound Values: ");
-  Serial.print(rmsFrontSensor);
-  Serial.print(",");
-  Serial.println(rmsBackSensor);
-    //printValues(valueSensor1, valueSensor2);
+    
+    Serial.print("Sound Values (Front, Back): ");
+    printValues(rmsFrontSensor, rmsBackSensor);
     
     // update thermostates
     stateSensor1 = updateThermoState(rmsFrontSensor, stateSensor1, lowerLimitFront, higherLimitFront, true);
@@ -138,43 +125,19 @@ void readNewSoundValues() {
 
 // returns the new state
 int updateThermoState(double rms, int state, double lowerLimit, double higherLimit, bool front) {
-  double toAdd = 0;
-  
-/*
-  if (state > displayLength / 2) {
-    if (front) {
-      toAdd = displayLength * multiValueFront;   
-    } else {
-      toAdd = displayLength * multiValueBack;
-    }
-  } else if (front) {
-    toAdd = 2 * state * multiValueFront;   
-  } else {
-    toAdd = 2 * state * multiValueBack;
-  }*/
-  
-  if (rms < lowerLimit + toAdd) { // quiet
+  if (rms < lowerLimit) { // quiet
     if (state > stateLowerLimit) {  // state is too high
-        if (state - 2 < 63) {
-          return state;
-        } else {
-          state -= 2;
-        }
+      state -= 2;
     }
-  } else if (rms < higherLimit + toAdd) { // noisy
+  } else if (rms < higherLimit) { // noisy
     if (state < displayLength) {
-      state += 4;
+      state += 3;
     }
   } else {  // loud
       if (state < displayLength) {  // state is too low
         state += 6;
       }
   }
-  /*
-  Serial.print("Limits: ");
-  Serial.print(lowerLimit + toAdd);
-  Serial.print(",");
-  Serial.println(higherLimit + toAdd);*/
 
   return state;
 }
@@ -211,5 +174,50 @@ void printValues(double value1, double value2) {
   Serial.print(value1);
   Serial.print(',');
   Serial.println(value2);
+}
+
+
+bool hoch = true;
+void testReceivingValues() {
+  if (Serial.available()) {
+    readNewSoundValues();
+    
+    Serial.print("Sound Values: ");
+    Serial.print(rmsFrontSensor);
+    Serial.print(",");
+    Serial.println(rmsBackSensor);
+    
+    for(int i = 1; i <= displayLength; i++){
+      if(i < stateSensor1) {    // turn LED on
+        strip.setPixelColor(i + startPositionFront, COLOR_RED);
+      } else {
+        strip.setPixelColor(i + startPositionFront, COLOR_BLACK);
+      }
+      if(i < stateSensor2) {    // turn LED on
+        strip2.setPixelColor(i + startPositionBack, COLOR_RED);
+      } else {
+        strip2.setPixelColor(i + startPositionBack, COLOR_BLACK);
+      }
+    }
+
+    if(hoch) {    // turn LED on
+      stateSensor1 += 8;
+      stateSensor2 += 8;
+    } else {
+      stateSensor1 -= 8;
+      stateSensor2 -= 8;
+    }
+
+    strip.show();
+    strip2.show();
+
+    if (stateSensor1 > 90){
+      hoch = false;
+    }
+    
+    if (stateSensor1 <= 0) {
+      hoch = true;
+    }
+  }
 }
 
