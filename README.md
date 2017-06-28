@@ -18,7 +18,7 @@ Bei der Akustik-Wand handelt es sich um eine Trennwand, welche in Arbeitsräumen
 ## Materialien und Werkzeug
 
 ### Material
-- 1x Pinn Stellwand (200cm hoch, 110cm Breite)
+- 1x Pin Stellwand (200cm hoch, 110cm Breite)
 - 12x [Akustikschaumstoff Platten](https://www.amazon.de/Noppenschaumstoff-Akustik-Schaumstoff-Akustikschaumstoff-D%C3%A4mmung/dp/B004JVY8A4/ref=sr_1_2) (50cm x 50cm)
 - 2x [Arduino Uno](http://www.exp-tech.de/arduino-uno-smd-r3)
 - 2x [Electret Microphone Amplifier](http://www.exp-tech.de/adafruit-electret-microphone-amplifier-max4466-with-adjustable-gain)
@@ -33,7 +33,7 @@ Bei der Akustik-Wand handelt es sich um eine Trennwand, welche in Arbeitsräumen
 - 1x [Rolle Klebefilm](https://www.amazon.de/tesa-Klebebandabroller-Kompakter-Tischabroller-Anti-Rutsch-Technologie/dp/B00EEAIPVS/ref=sr_1_4)
 - 1x [USB 2.0 Kabel A-Stecker auf B-Stecker](https://www.amazon.de/AmazonBasics-USB-2-0-Druckerkabel-Stecker-B-Stecker/dp/B00NH13DV2/ref=sr_1_1)
 - 2x [Netzteil](https://www.amazon.de/Goobay-NTS-1000-MW-Schaltnetzteil/dp/B002E4WNWI/ref=sr_1_19)
-- Ca. 90x [Pinnnadeln](https://www.amazon.de/Outus-Karte-Nagel-Pinnadeln-Plastik/dp/B01LX88MBN/ref=sr_1_1)
+- Ca. 90x [Pinnadeln](https://www.amazon.de/Outus-Karte-Nagel-Pinnadeln-Plastik/dp/B01LX88MBN/ref=sr_1_1)
 
 ### Werkzeug
 - 1x [Lötkolben](https://www.amazon.de/Einstellbare-Temperatur-Unterschiedliche-L%C3%B6tspitzen-Verschiedentlich/dp/B01LXH7BLN/ref=sr_1_3)
@@ -103,7 +103,7 @@ Zu Beginn sollte die Mitte der Trennwand ausgemessen werden auf der später der 
 1. Das überstehende Klebeband mit der nicht klebenden Seite an die Plexiglas Verzierung klappen und mit einem zusätzlichen kleinen Streifen Klebeband in dieser Position fixieren. (Erleichtert das anbringen an der Pinnwand)
 1. Plexiglas Verzierung an Pinnwand anbringen.
 	1. Anheben der Plexiglas Verzierung an die gewünschte Position.
-	1. Zusaetzliche Klebebandstreifen entfernen und Plexiglas Verzierung mit dem Klebeband an der Pinnwand fixieren.
+	1. Zusätzliche Klebebandstreifen entfernen und Plexiglas Verzierung mit dem Klebeband an der Pinnwand fixieren.
 1. Klebeband an der Pinnwand mit Pins befestigen, für zusätzliche Stabilität.
 1. Wiederholen für die zweite Plexiglas Verzierung an der Rückseite.
 
@@ -111,7 +111,7 @@ Zu Beginn sollte die Mitte der Trennwand ausgemessen werden auf der später der 
 
 <img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/acoustic_foam.jpg" height="256">
 
-1. Anpinnen der Platten an der Pinnwand, bevorzugt mit Pinnnadeln mit einem schwarzem Kopf. (Anordnung aus Planung entnehmen.)
+1. Anpinnen der Platten an der Pinnwand, bevorzugt mit Pinnadeln mit einem schwarzem Kopf. (Anordnung aus Planung entnehmen.)
 
 ### Geräusch-Sensoren
 Die Geräusch-Sensoren werden in den horizontalen Zwischenräumen der Akustikplatten platziert.
