@@ -93,7 +93,7 @@ Zu Beginn sollte die Mitte der Trennwand ausgemessen werden auf der später der 
 1. Befestigen des Backpapiers mit Klebefilm.
 1. Wiederholen der Schritte für die zweite Plexiglas Verzierung der Rückseite.
 
-Tipp: Alternativ kann bereits milchiges Plexiglas benutzt werden. So erspart man sich das Backpapier
+Tipp: Alternativ kann bereits milchiges Plexiglas benutzt werden. So erspart man sich das Backpapier.
 
 #### Befestigung der Plexiglas Verzierung
 
