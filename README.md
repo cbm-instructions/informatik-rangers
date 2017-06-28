@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/intro.jpg" height="1024">
 
 ## Einleitung
-...
+Die Akustik-Wand wurde im Rahmen der Vorlesung Challenge Based Making an der Hochschule Mannheim vom Team Informatik-Rangers erstellt. Zum Beginn der Vorlesung wurde den Studenten eine Challenge gestellt und diese sollte über das Semester bewältigt werden. Das Porjekt war in zwei Phasen unterteilt. Die erste Phase war das Design Thinking in der die Idee für das Produkt gesucht wurde. Die zweite Phase bestand darin die Idee Umzusetzen. 
 
 ### Challenge
 Wie könnten Menschen in der „Smart HS Mannheim“ durch deren intelligente Geräte und Objekte dabei unterstützt werden, angenehmer und spielerischer zu arbeiten?
