@@ -146,7 +146,7 @@ Die Geräusch-Sensoren werden in den horizontalen Zwischenräumen der Akustikpla
 	1. Ein weiteres Kabel wird für die Kommunikationsverbindung der Arduinos benötigt. Dieses sollte aber erst im nächsten Kapitel, nachdem die Programme aufgespielt wurden, angeschlossen werden.
 
 #### Schaltplan
-...
+<img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/schaltung.png" height="800">
 
 ### Code
 
