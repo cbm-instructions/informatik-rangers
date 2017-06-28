@@ -132,7 +132,7 @@ Die Geräusch-Sensoren werden in den horizontalen Zwischenräumen der Akustikpla
 
 ### Schaltungen
 
-<img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/circuit.jpg" height="512">
+<img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/schaltungende.jpg" height="512">
 
 1. Ankleben der Steckplatine mittig am unteren Ende der Pinnwand.
 1. Anpinnen der Arduinos rechts über der Platine, sodass die Kabelanschlüsse nach rechts aussen gerichtet sind.
