@@ -9,7 +9,7 @@ Die Akustik-Wand wurde im Rahmen der Vorlesung Challenge Based Making an der Hoc
 Wie könnten Menschen in der „Smart HS Mannheim“ durch deren intelligente Geräte und Objekte dabei unterstützt werden, angenehmer und spielerischer zu arbeiten?
 
 ### Point of View
-Wie können wir den Studenten im studentischen Arbeitsraum helfen, eine ruhigere Arbeitsumgebung zu schaffen, damit sie konzentriert arbeiten können?
+Wie können wir den Studenten im studentischen Arbeitsraum helfen, eine ruhigere Arbeitsumgebung zu schaffen, damit sie konzentrierter arbeiten können?
 
 ### Beschreibung des fertigen Produkts
 
@@ -31,7 +31,7 @@ Bei der Akustik-Wand handelt es sich um eine Trennwand, welche in Arbeitsräumen
 - 1x [Rolle Klebeband](https://www.amazon.de/Klebeband-Gewebeband-Panzerband-Panzertape-schwarz/dp/B00BZ5EXO8/ref=sr_1_15)
 - 1x [Rolle Backpapier Weiß](https://www.amazon.de/Ibili-200730-Backpapier-10-m-x-30-cm/dp/B00717TA56/ref=sr_1_1)
 - 1x [Rolle Klebefilm](https://www.amazon.de/tesa-Klebebandabroller-Kompakter-Tischabroller-Anti-Rutsch-Technologie/dp/B00EEAIPVS/ref=sr_1_4)
-- 2x [USB 2.0 Kabel A-Stecker auf B-Stecker](https://www.amazon.de/AmazonBasics-USB-2-0-Druckerkabel-Stecker-B-Stecker/dp/B00NH13DV2/ref=sr_1_1)
+- 1x [USB 2.0 Kabel A-Stecker auf B-Stecker](https://www.amazon.de/AmazonBasics-USB-2-0-Druckerkabel-Stecker-B-Stecker/dp/B00NH13DV2/ref=sr_1_1)
 - 2x [Netzteil](https://www.amazon.de/Goobay-NTS-1000-MW-Schaltnetzteil/dp/B002E4WNWI/ref=sr_1_19)
 - Ca. 90x [Pinnnadeln](https://www.amazon.de/Outus-Karte-Nagel-Pinnadeln-Plastik/dp/B01LX88MBN/ref=sr_1_1)
 
