@@ -180,7 +180,7 @@ Hinweis: Diese Werte entsprechen Richtwerten und müssen möglicherweise weiter 
 <img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/panel.jpg" height="256">
 
 1. Ausschneiden eines Freiraums an den Seiten, für die ausgehenden Leitungen. (Arduino, Netzteil und LED-Streifen.)
-1. Dekorieren, einfaerben, bemalen der zur Verkleidung verwendeten Pappschachtel.
+1. Dekorieren, einfärben, bemalen der zur Verkleidung verwendeten Pappschachtel.
 1. Anbringen der Verkleidung mithilfe von Pinnadeln.
 
 ## Ideen zur Weiterentwicklung
