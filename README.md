@@ -120,7 +120,7 @@ Die Geräusch-Sensoren werden in den horizontalen Zwischenräumen der Akustikpla
 
 <img src="https://raw.githubusercontent.com/cbm-instructions/informatik-rangers/master/images/sound-sensor.jpg" height="256">
 
-1. Länge der benoetigten Leitungen messen. (Etwas mehr schadet hier nicht.)
+1. Länge der benötigten Leitungen messen. (Etwas mehr schadet hier nicht.)
 1. Anbringen der Leitungen an den Sensoren.
 	1. Zuschneiden der Leitungen auf gewünschte Länge.
 	1. Abisolieren der Leitungsenden.
